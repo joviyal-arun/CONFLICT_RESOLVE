@@ -8,3 +8,6 @@ def arunachalam_personal():
 
 def arunachalam_off():
     return "Arunachalam off"
+
+def slash_related_process():
+    return "resolve slash"
