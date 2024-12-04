@@ -11,3 +11,5 @@ def arunachalam_off():
 
 def salsh_related_things():
     return "salash related things in my off"
+def slash_related_process():
+    return "resolve slash"
